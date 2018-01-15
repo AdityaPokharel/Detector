@@ -1,6 +1,9 @@
 # Detector
 iOS app created using CoreML that detects objects and describes the detected object. Works very well with Dog and Cat breeds :)
 
+## App icon created using canva:
+<img src="https://user-images.githubusercontent.com/17066229/34949322-dbef6f14-fa63-11e7-87f2-d5a0f3d3fe32.png" width=100>
+
 
 # Examples
 ## - Computer Keyboard Detection
@@ -21,5 +24,3 @@ iOS app created using CoreML that detects objects and describes the detected obj
 ## Iron Detection
 <img src="https://user-images.githubusercontent.com/17066229/34948499-634c4c64-fa61-11e7-8526-341e3bbed22d.PNG" width="400">
 
-## App icon created using canva:
-<img src="https://user-images.githubusercontent.com/17066229/34949322-dbef6f14-fa63-11e7-87f2-d5a0f3d3fe32.png" width=100>
