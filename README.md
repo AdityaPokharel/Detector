@@ -1,5 +1,5 @@
 # Detector
-iOS app created using CoreML that detects objects and describes the detected object.
+iOS app created using CoreML that detects objects and describes the detected object. Works surprisingly well with Dog and Cat breeds :)
 
 # Examples
 ![example1](https://user-images.githubusercontent.com/17066229/34948490-617a2fdc-fa61-11e7-897b-ebe871e49ff9.PNG)
