@@ -5,7 +5,7 @@ iOS app created using CoreML that detects objects and describes the detected obj
 <img src="https://user-images.githubusercontent.com/17066229/34949322-dbef6f14-fa63-11e7-87f2-d5a0f3d3fe32.png" width=100>
 
 
-# Examples
+# Example Screenshots
 ## - Computer Keyboard Detection
 <img src="https://user-images.githubusercontent.com/17066229/34948490-617a2fdc-fa61-11e7-897b-ebe871e49ff9.PNG" width="400">
 
